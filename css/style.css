@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+
+*{margin:0px;
+  box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;}
+
+body {background-color: white;
+      font-family: 'Playfair Display', serif;}
+
+header {padding:15px 135px 0px;}
+
+img {max-width:100%;}
+
+.about-us {}
+
+.container {width:1100px;
+			margin-right:auto;
+			margin-left:auto;
+		    overflow:hidden;}
+
+h1 {font-size: 120px;
+    line-height: 100px;
+    margin:40px 0px 50px;}
+
+p {margin:10px 0px 50px;
+   font-size:20px;
+   width: 600px;}
+
+.geospatial {padding:70px 0px 120px;   
+}
+
+ h4 {margin-top:5px;
+     font-size:25px;
+     width: 450px;}
+
+h2 {font-size:45px;}
+
+.content-paragraph {width:60%;
+					float:left;}
+
+.content-image {width:40%;
+			    float:left;}
+
+.geospatial img {width: 500px; height: 600px;}
+
+.usa {padding:70px 0px 10px;}
+
+.para {}
+
+.usa img {}
+
+.clients {padding:70px 0px 10px;}
+
+.clients-image {width:16.66%;
+                float:left;
+								padding:20px;} 
+
+.clients img {width:100px;
+              height: 100px;
+              }
+
+.heading {margin-bottom:20px;}
+
+hr {width:70px;
+    display:inline-block;
+    vertical-align:middle;
+    }
+
+span {font-size:10px;}
+
+.usa img {width: 500px; height: 300px;}
+
+.services {padding:70px 0px 120px;}
+
+.features {width: 33.33%;
+		   padding:0;
+		   float:left;
+		   margin-bottom:30px;}
+
+footer {color:white;
+        background-color:black;
+        padding:60px 0px 30px;}
+
+h5 {width: 500px;
+    margin-bottom:20px;
+    margin-top:10px;}
+
+a {}
